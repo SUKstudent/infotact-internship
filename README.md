@@ -66,12 +66,13 @@ infotact-internship/
 
 ├── Month-1-Multi-Touch-Attribution/
 
-│   ├── README.md
-
-│   └── Screenshots/
+    ├── README.md  
+    
+    └── Screenshots/
 
 │
-
 └── Month-2-CLTV-Analysis/
+
     ├── README.md
+    
     └── Screenshots/

@@ -73,7 +73,5 @@ infotact-internship/
 │
 
 └── Month-2-CLTV-Analysis/
-
     ├── README.md
-    
     └── Screenshots/

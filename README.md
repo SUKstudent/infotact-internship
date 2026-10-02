@@ -56,23 +56,20 @@ This project focuses on analyzing customer purchasing behavior and customer valu
 
 ## 📁 Repository Structure
 
-infotact-internship/
+infotact-internship
 
-│
+    ├── README.md
 
-├── README.md
-
-│
-
-├── Month-1-Multi-Touch-Attribution/
+    ├── Month-1-Multi-Touch-Attribution/
 
     ├── README.md  
     
     └── Screenshots/
 
-│
-└── Month-2-CLTV-Analysis/
+   │
 
-    ├── README.md
+    └── Month-2-CLTV-Analysis/
+
+        ├── README.md
     
-    └── Screenshots/
+        └── Screenshots/

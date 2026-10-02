@@ -66,7 +66,7 @@ infotact-internship
     
     └── Screenshots/
 
-   │
+    │
 
     └── Month-2-CLTV-Analysis/
 

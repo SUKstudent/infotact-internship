@@ -156,7 +156,7 @@ e-commerce-sales-customer-value-analysis/
 
 ├── Dashboard/
 
-│   └── Screenshots/
+   └── Screenshots/
 
       └── customer-value-dashboard.png
 

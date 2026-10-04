@@ -146,14 +146,26 @@ folder.
 
 ## 📁 Project Structure
 
+## 📁 Project Structure
+
 Month-2/
+
 │
+
 ├── README.md
+
 │
+
 ├── Dashboard/
+
 │   └── Screenshots/
-│       └── customer-value-dashboard.png
+
+│       ├── page 1.png
+
+│       └── page 2.png
+
 │
+
 └── PowerBI/
     └── Olist-Customer-Analysis.pbix
 

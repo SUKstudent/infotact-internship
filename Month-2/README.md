@@ -147,13 +147,15 @@ folder.
 ## 📁 Project Structure
 
 Month-2/
-
+│
 ├── README.md
-
-├── Dashboard/ 
-    └── Screenshots/ Page 1.png
-     └── Screenshots/ Page 2.png
-└── PowerBI/Olist-Customer-Analysis.pbix
+│
+├── Dashboard/
+│   └── Screenshots/
+│       └── customer-value-dashboard.png
+│
+└── PowerBI/
+    └── Olist-Customer-Analysis.pbix
 
 💡 Key Takeaway
 

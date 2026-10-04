@@ -24,7 +24,7 @@ This project focuses on analyzing marketing touchpoints and understanding their 
 
 ---
 
-### 👥 Month 2 – Customer Value (CLTV) Analysis
+### 👥 Month 2 – E-commerce and Customer Value (CLTV) Analysis
 
 ---
 

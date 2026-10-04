@@ -150,24 +150,21 @@ folder.
 
 Month-2/
 
-│
+    │
 
-├── README.md
+    ├── README.md
 
-│
+    ├── Dashboard/
 
-├── Dashboard/
+       └──  Screenshots/
 
-│   └── Screenshots/
+       ├── page 1.png
 
-│       ├── page 1.png
+       └── page 2.png
 
-│       └── page 2.png
-
-│
-
-└── PowerBI/
-    └── Olist-Customer-Analysis.pbix
+     └── PowerBI/
+        
+        └── Olist-Customer-Analysis.pbix
 
 💡 Key Takeaway
 

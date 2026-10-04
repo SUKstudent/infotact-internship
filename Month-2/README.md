@@ -146,9 +146,7 @@ folder.
 
 ## 📁 Project Structure
 
-## 📁 Project Structure
-
-Month-2/
+    Month-2/
 
     │
 

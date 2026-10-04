@@ -146,25 +146,17 @@ folder.
 
 ## 📁 Project Structure
 
-e-commerce-sales-customer-value-analysis/
-
-│
+Month-2/
 
 ├── README.md
 
-│
-
 ├── Dashboard/
 
-   └── Screenshots/
+   └── Screenshots/ Page 1.png
+   
+   └── Screenshots/ Page 2.png
 
-      └── customer-value-dashboard.png
-
-│
-
-└── PowerBI/
-
-    └── Olist-Customer-Analysis.pbix
+└── PowerBI/Olist-Customer-Analysis.pbix
 
 💡 Key Takeaway
 
